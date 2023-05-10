@@ -7,4 +7,3 @@ category_div = soup.find("div", attrs={'id': "actionField"})
 print(category_div)
 
 print("================================tHIS IS MY BRANCH =================================")
-print("================================ecnekc,mw")
